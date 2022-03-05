@@ -1,0 +1,15 @@
+.con
+{
+    background-color: aquamarine ;
+    
+    font-family: 'Tenor Sans', sans-serif;
+    flex: content;
+    align-items: center;
+   
+}
+.m{
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 2rem;  
+    color:blue;
+    text-align: center;
+}
